@@ -12,7 +12,7 @@ Task for a marketing analyst at the entertainment app Procrastinate Pro+. Despit
 
 [Project Folder](/Analysis-of-business-indicators)
 
-## Project 3: # How to tell a Story with Data
+## Project 3: How to tell a Story with Data
 
 A market research study was conducted based on publicly available data about Moscow's foodservice facilities, and the collected data was visualized. A location for a new coffee shop was chosen based on the data. I utilized the seaborn and plotly libraries for creating the visualizations and charts.
 
